@@ -1,0 +1,97 @@
+Rebirth: 0:18.93
+Pummel: 0:08.32
+Gunner: 0:09.47
+Cascade: 0:10.21
+Elevate: 0:16.42
+Bounce: 0:19.05
+Purify: 0:10.44
+Climb: 0:12.75
+Fasttrack: 0:25.44
+Glass Port: 0:25.31
+Take Flight: 0:17.54
+Godspeed: 0:06.13
+Dasher: 0:10.21
+Thrasher: 0:12.42
+Outstretched: 0:10.35
+Smackdown: 0:10.81
+Catwalk: 0:14.22
+Fastlane: 0:22.45
+Distinguish: 0:15.89
+Dancer: 0:17.06
+Guardian: 0:22.64
+Stomp: 0:15.34
+Jumper: 0:19.15
+Dash Tower: 0:14.72
+Descent: 0:11.39
+Driller: 0:12.61
+Canals: 0:30.07
+Sprint: 0:19.63
+Mountain: 0:19.80
+Superkinetic: 0:20.10
+Arrival: 0:22.95
+Forgotten City: 0.32.02
+The Clocktower: 0:53.68
+Fireball: 0:19.12
+Ringer: 0:16.60
+Cleaner: 0:14.31
+Warehouse: 0:13.98
+Boom: 0:18.45
+Streets: 0:09.60
+Steps: 0:15.15
+Demolition: 0:09.73
+Arcs: 0:18.62
+Apartment: 0:23.79
+Hanging Gardens: 0:24.79
+Tangled: 0:13.98
+Waterworks: 0:21.97
+Killswitch: 0:27.64
+Falling: 0:22.48
+Shocker: 0:28.75
+Bouquet: 0:27.76
+Prepare: 0:30.09
+Triptrack: 0:35.97
+Race: 0:26.13
+Bubble: 0:19.43
+Shield: 0:18.73
+Overlook: 0:15.44
+Pop: 0:26.03
+Minefield: 0:17.55
+Mimic: 0:10.69
+Trigger: 0:24.38
+Greenhouse: 0:11.31
+Sweep: 0:20.30
+Fuse: 0:29.19
+Heaven's Edge: 0:18.13
+Zipline: 0:17.55
+Swing: 0:23.12
+Chute: 0:46.27
+Crash: 0:33.22
+Ascent: 0:34.65
+Straightaway: 0:42.20
+Firecracker: 0:40.56
+Streak: 0:38.45
+Mirror: 0:47.20
+Escalation: 0:28.94
+Bolt: 0:40.18
+Godstreak: 0:30.76
+Plunge: 0:35.43
+Mayhem: 0:28.27
+Barrage: 0:36.97
+Estate: 0:44.97
+Trapwire: 0:24.60
+Ricochet: 0:36.33
+Fortress: 0:34.81
+Holy Ground: 1:28.68
+The Third Temple: 2:27.16
+Spree: 0:20.64
+Breakthrough: 0:17.45
+Glide: 0:23.31
+Closer: 0:34.15
+Hike: 0:22.48
+Switch: 0:32.43
+Access: 0:23.85
+Congregation: 0:33.24
+Sequence: 0:14.31
+Marathon: 1:31.33
+Sacrifice: 1:28.68
+Absolution: 1:47.62
